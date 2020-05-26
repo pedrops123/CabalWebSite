@@ -1,0 +1,1 @@
+<div class='ferrorbig'>Desculpe, seu nivel de administracao nao pode acessar esse sistema</div>

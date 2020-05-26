@@ -1,0 +1,1 @@
+<div class='ferrorbig'>Você precisa estar logado no painel para acessar esta página</div>
